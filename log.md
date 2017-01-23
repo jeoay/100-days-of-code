@@ -24,3 +24,11 @@
 
 **Thoughts:** Finding a way to randomly generate a number wasnt hard, but figuring out how to compare that number to the assigned numbers of each team was difficult. I would like to find a way to plug in each percentage for teams and then ask the console to pick on based on that percentage but for now I added the percentages together and gave them a range. If the random number falls in a given teams range, then it spits out that teams name. 
 **Link to work:** [Draft Lottery](https://github.com/jeoay/draftlottery)
+
+### Day 4: January 22th, 2016
+###
+
+**Today's Progress**: Used datetime method to create a script that tells you how many days until your birthday. 
+
+**Thoughts:** I got stuck on my other project and decided to build this using code I learned from lynda.com's up and running with Python. Cool little script but basic functionality.  
+**Link to work:** [When is my birthday app](https://github.com/jeoay/fun)
